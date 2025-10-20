@@ -11,6 +11,9 @@
   --font-weight-my-thin: 300;
   --font-weight-my-normal: 500;
   --font-weight-my-bold: 700;
+
+  /* SCREEN */
+  --breakpoint-md: 1050px;
 }
 
 * {
